@@ -70,9 +70,9 @@ Cada documento desarrolla un aspecto clave del proceso:
 
 ## 💬 Contacto
 
-Para cualquier duda o tutoría, recuerda **escribierme a ffresno@iesjuanbosco.es**.
+Para cualquier duda o tutoría, recuerda **escribirme a ffresno@iesjuanbosco.es**.
 💻 *Fernando del Fresno García*
 
 ---
 
-✨ *Aprender Odoo paso a paso te abre las puertas al desarrollo empresarial profesional. ¡Manos al código!*
+✨ *Con estos documentos debes ser capaz de aprender lo básico para programar módulos en Odoo. ¡Manos al código!*
