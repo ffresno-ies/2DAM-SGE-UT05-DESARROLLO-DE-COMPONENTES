@@ -26,7 +26,8 @@ Cada documento desarrolla un aspecto clave del proceso:
 | **UT5_05_PRIMER_MODULO_ODOO** | Creación de nuevos modelos                        |
 | **UT5_06_PRIMER_MODULO_ODOO** | Relaciones Many2many                              |
 | **UT5_07_PRIMER_MODULO_ODOO** | Relaciones Many2one y One2many                    |
-| **UT5_08_PRIMER_MODULO_ODOO** | Icono del módulo y tablas asociadas al módulo     |
+| **UT5_08_PRIMER_MODULO_ODOO** | Icono del módulo y tablas asociadas al módulo    
+| **UT5_09_PRIMER_MODULO_ODOO** | Informes     |
 
 ---
 
